@@ -410,3 +410,17 @@ def main():
             print("Choice must be between 1 and 7")
             choice = getChoice()
             
+
+#Bryon Garcia
+#class csc 110 hw 1
+#due date 9-7-23
+
+import math
+a = 8
+b = 3
+c = 5
+
+
+z = (2 * a - 3 * b / 8 + 42 / a ** 2 - b ** 2 * 2 / a + c / 6 / b)
+
+print (z)
